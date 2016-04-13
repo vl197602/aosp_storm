@@ -1,1 +1,1 @@
-# aosp_storm
+# Device tree for aosp_storm
